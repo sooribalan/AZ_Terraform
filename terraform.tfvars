@@ -1,2 +1,2 @@
 RGname = "AKSClusterRG"
-location = "US West 2"
+location = "eastus2"
